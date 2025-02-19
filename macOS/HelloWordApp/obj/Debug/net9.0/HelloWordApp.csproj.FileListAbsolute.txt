@@ -1,0 +1,15 @@
+/Users/vayne/Desktop/DockerExample/macOS/HelloWordApp/bin/Debug/net9.0/HelloWordApp
+/Users/vayne/Desktop/DockerExample/macOS/HelloWordApp/bin/Debug/net9.0/HelloWordApp.deps.json
+/Users/vayne/Desktop/DockerExample/macOS/HelloWordApp/bin/Debug/net9.0/HelloWordApp.runtimeconfig.json
+/Users/vayne/Desktop/DockerExample/macOS/HelloWordApp/bin/Debug/net9.0/HelloWordApp.dll
+/Users/vayne/Desktop/DockerExample/macOS/HelloWordApp/bin/Debug/net9.0/HelloWordApp.pdb
+/Users/vayne/Desktop/DockerExample/macOS/HelloWordApp/obj/Debug/net9.0/HelloWordApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vayne/Desktop/DockerExample/macOS/HelloWordApp/obj/Debug/net9.0/HelloWordApp.AssemblyInfoInputs.cache
+/Users/vayne/Desktop/DockerExample/macOS/HelloWordApp/obj/Debug/net9.0/HelloWordApp.AssemblyInfo.cs
+/Users/vayne/Desktop/DockerExample/macOS/HelloWordApp/obj/Debug/net9.0/HelloWordApp.csproj.CoreCompileInputs.cache
+/Users/vayne/Desktop/DockerExample/macOS/HelloWordApp/obj/Debug/net9.0/HelloWordApp.sourcelink.json
+/Users/vayne/Desktop/DockerExample/macOS/HelloWordApp/obj/Debug/net9.0/HelloWordApp.dll
+/Users/vayne/Desktop/DockerExample/macOS/HelloWordApp/obj/Debug/net9.0/refint/HelloWordApp.dll
+/Users/vayne/Desktop/DockerExample/macOS/HelloWordApp/obj/Debug/net9.0/HelloWordApp.pdb
+/Users/vayne/Desktop/DockerExample/macOS/HelloWordApp/obj/Debug/net9.0/HelloWordApp.genruntimeconfig.cache
+/Users/vayne/Desktop/DockerExample/macOS/HelloWordApp/obj/Debug/net9.0/ref/HelloWordApp.dll
